@@ -110,10 +110,21 @@ EveMirage dans une langue, les objets du jeu dans une autre : <strong>deux régl
 
 <p align="center"><img src="assets/fr/version.png" width="100%" alt="VERSION"></p>
 
-<p><strong>1.0.4</strong> — 29 octobre 2026</p>
+<p><strong>1.0.5</strong> — 29 octobre 2026</p>
 
 <p align="center"><img src="assets/fr/fixes.png" width="100%" alt="CORRECTIONS"></p>
 
+<ul>
+<li>La mise à jour se propose dans une fenêtre au milieu d'EveMirage, avec ce que la version change.</li>
+<li>Après une mise à jour, l'installateur ne lance plus EveMirage deux fois.</li>
+<li>Le logo Myrmoon de l'installateur ne colle plus au coin.</li>
+</ul>
+
+<details>
+<summary>Versions précédentes</summary>
+
+<p><strong>1.0.4</strong> — 29 octobre 2026</p>
+<p><strong>Corrections</strong></p>
 <ul>
 <li>Le logo d'EveMirage s'affiche bien au démarrage.</li>
 <li>L'installateur ne lance plus EveMirage deux fois au « Terminer ».</li>
@@ -121,9 +132,6 @@ EveMirage dans une langue, les objets du jeu dans une autre : <strong>deux régl
 <li>Les messages hors ligne d'Ordres, Contrats et Jobs d'industrie sont en anglais dans l'interface anglaise.</li>
 <li>L'installateur et le désinstalleur portent le logo Myrmoon.</li>
 </ul>
-
-<details>
-<summary>Versions précédentes</summary>
 
 <p><strong>1.0.3</strong> — 29 octobre 2026</p>
 <p><strong>Corrections</strong></p>
