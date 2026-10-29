@@ -110,17 +110,23 @@ EveMirage dans une langue, les objets du jeu dans une autre : <strong>deux régl
 
 <p align="center"><img src="assets/fr/version.png" width="100%" alt="VERSION"></p>
 
-<p><strong>1.0.2</strong> — 29 octobre 2026</p>
+<p><strong>1.0.3</strong> — 29 octobre 2026</p>
 
 <p align="center"><img src="assets/fr/fixes.png" width="100%" alt="CORRECTIONS"></p>
 
 <ul>
-<li>Les titres de page sont traduits : Ordres, Contrats, Jobs d'industrie, Agents à distance.</li>
-<li>« Announcement » n'est plus rogné sur le tableau de bord en anglais.</li>
+<li>La mise à jour automatique passe désormais par le nouveau dépôt de publication.</li>
 </ul>
 
 <details>
 <summary>Versions précédentes</summary>
+
+<p><strong>1.0.2</strong> — 29 octobre 2026</p>
+<p><strong>Corrections</strong></p>
+<ul>
+<li>Les titres de page sont traduits : Ordres, Contrats, Jobs d'industrie, Agents à distance.</li>
+<li>« Announcement » n'est plus rogné sur le tableau de bord en anglais.</li>
+</ul>
 
 <p><strong>1.0.1</strong> — 28 octobre 2026 · première version publique</p>
 <p><strong>Améliorations</strong></p>

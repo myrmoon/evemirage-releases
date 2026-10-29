@@ -110,17 +110,23 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 
 <p align="center"><img src="assets/en/version.png" width="100%" alt="VERSION"></p>
 
-<p><strong>1.0.2</strong> — October 29, 2026</p>
+<p><strong>1.0.3</strong> — October 29, 2026</p>
 
 <p align="center"><img src="assets/en/fixes.png" width="100%" alt="FIXES"></p>
 
 <ul>
-<li>Page titles are now translated: Orders, Contracts, Industry jobs, Remote agents.</li>
-<li>“Announcement” is no longer cut off on the dashboard.</li>
+<li>Automatic updates now come from the new release repository.</li>
 </ul>
 
 <details>
 <summary>Previous versions</summary>
+
+<p><strong>1.0.2</strong> — October 29, 2026</p>
+<p><strong>Fixes</strong></p>
+<ul>
+<li>Page titles are now translated: Orders, Contracts, Industry jobs, Remote agents.</li>
+<li>“Announcement” is no longer cut off on the dashboard.</li>
+</ul>
 
 <p><strong>1.0.1</strong> — October 28, 2026 · first public release</p>
 <p><strong>Improvements</strong></p>
