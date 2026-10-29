@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/version-1.0.6-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
+<img src="https://img.shields.io/badge/version-1.0.7-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
 <img src="https://img.shields.io/badge/publi%C3%A9e-29%20oct.%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="publiée">
 <img src="https://img.shields.io/github/downloads/myrmoon/evemirage-releases/total?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=t%C3%A9l%C3%A9chargements" alt="téléchargements">
 <img src="https://img.shields.io/badge/windows-10%20%C2%B7%2011-F5A524?style=for-the-badge&labelColor=1B1E23" alt="Windows 10 · 11">
@@ -110,10 +110,29 @@ EveMirage dans une langue, les objets du jeu dans une autre : <strong>deux régl
 
 <p align="center"><img src="assets/fr/version.png" width="100%" alt="VERSION"></p>
 
-<p><strong>1.0.6</strong> — 29 octobre 2026</p>
+<p><strong>1.0.7</strong> — 29 octobre 2026</p>
 
 <p align="center"><img src="assets/fr/improvements.png" width="100%" alt="AMÉLIORATIONS"></p>
 
+<ul>
+<li>Un pied d'informations en bas : les comptes ESI, les SP et les ISK.</li>
+<li>Tranquility, le nombre de joueurs connectés, l'heure EVE et le downtime sont dans le pied.</li>
+<li>La barre du haut est allégée : le fil d'Ariane et le mode compact y montent, la page gagne une rangée.</li>
+<li>Le logo a ses nouvelles proportions.</li>
+</ul>
+
+<p align="center"><img src="assets/fr/fixes.png" width="100%" alt="CORRECTIFS"></p>
+
+<ul>
+<li>Plus de bandeau jaune en bas de la fenêtre.</li>
+<li>« Aucun personnage suivi » se dit dans le tableau de bord, qui ouvre les comptes ESI.</li>
+</ul>
+
+<details>
+<summary>Versions précédentes</summary>
+
+<p><strong>1.0.6</strong> — 29 octobre 2026</p>
+<p><strong>Améliorations</strong></p>
 <ul>
 <li>La barre du haut est réorganisée : plus de barre de menus.</li>
 <li>ESI et Prix ont leur bouton en haut à droite, avec la date de leur dernière lecture.</li>
@@ -123,9 +142,6 @@ EveMirage dans une langue, les objets du jeu dans une autre : <strong>deux régl
 <li>La page Missions donne la date du relevé des missions et des agents.</li>
 <li>L'exe ne change plus d'une version à l'autre : après celle-ci, l'antivirus ne le réexamine plus à chaque mise à jour, et le démarrage est un peu plus rapide.</li>
 </ul>
-
-<details>
-<summary>Versions précédentes</summary>
 
 <p><strong>1.0.5</strong> — 29 octobre 2026</p>
 <p><strong>Corrections</strong></p>

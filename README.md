@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/version-1.0.6-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
+<img src="https://img.shields.io/badge/version-1.0.7-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
 <img src="https://img.shields.io/badge/released-oct%2029%2C%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="released">
 <img src="https://img.shields.io/github/downloads/myrmoon/evemirage-releases/total?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=downloads" alt="downloads">
 <img src="https://img.shields.io/badge/windows-10%20%C2%B7%2011-F5A524?style=for-the-badge&labelColor=1B1E23" alt="Windows 10 · 11">
@@ -110,10 +110,29 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 
 <p align="center"><img src="assets/en/version.png" width="100%" alt="VERSION"></p>
 
-<p><strong>1.0.6</strong> — October 29, 2026</p>
+<p><strong>1.0.7</strong> — October 29, 2026</p>
 
 <p align="center"><img src="assets/en/improvements.png" width="100%" alt="IMPROVEMENTS"></p>
 
+<ul>
+<li>An information footer at the bottom: ESI accounts, SP and ISK.</li>
+<li>Tranquility, the number of players online, EVE time and downtime are in the footer.</li>
+<li>The top bar is lighter: the breadcrumb and compact mode move up into it, the page gains a row.</li>
+<li>The logo has its new proportions.</li>
+</ul>
+
+<p align="center"><img src="assets/en/fixes.png" width="100%" alt="FIXES"></p>
+
+<ul>
+<li>No more yellow strip at the bottom of the window.</li>
+<li>“No tracked character” is shown on the dashboard, which opens the ESI accounts.</li>
+</ul>
+
+<details>
+<summary>Previous versions</summary>
+
+<p><strong>1.0.6</strong> — October 29, 2026</p>
+<p><strong>Improvements</strong></p>
 <ul>
 <li>The top bar is reorganised: no more menu bar.</li>
 <li>ESI and Prices have their button at the top right, with the date of their last read.</li>
@@ -123,9 +142,6 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 <li>The Missions page gives the date the missions and agents were surveyed.</li>
 <li>The exe no longer changes between versions: after this one, the antivirus stops re-examining it at every update, and startup is a little faster.</li>
 </ul>
-
-<details>
-<summary>Previous versions</summary>
 
 <p><strong>1.0.5</strong> — October 29, 2026</p>
 <p><strong>Fixes</strong></p>
