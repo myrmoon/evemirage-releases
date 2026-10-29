@@ -110,16 +110,26 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 
 <p align="center"><img src="assets/en/version.png" width="100%" alt="VERSION"></p>
 
-<p><strong>1.0.3</strong> — October 29, 2026</p>
+<p><strong>1.0.4</strong> — October 29, 2026</p>
 
 <p align="center"><img src="assets/en/fixes.png" width="100%" alt="FIXES"></p>
 
 <ul>
-<li>Automatic updates now come from the new release repository.</li>
+<li>The EveMirage logo now shows reliably at startup.</li>
+<li>The installer no longer starts EveMirage twice when you click Finish.</li>
+<li>The Skills badge shows the date of the last ESI reading instead of “unknown”.</li>
+<li>Offline messages in Orders, Contracts and Industry jobs are now in English.</li>
+<li>The installer and uninstaller carry the Myrmoon logo.</li>
 </ul>
 
 <details>
 <summary>Previous versions</summary>
+
+<p><strong>1.0.3</strong> — October 29, 2026</p>
+<p><strong>Fixes</strong></p>
+<ul>
+<li>Automatic updates now come from the new release repository.</li>
+</ul>
 
 <p><strong>1.0.2</strong> — October 29, 2026</p>
 <p><strong>Fixes</strong></p>
