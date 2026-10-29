@@ -3,13 +3,13 @@
 <p align="center"><img src="assets/en/hero.png" width="100%" alt="EVE Mirage — THE CAPSULEER'S COMMAND CONSOLE"></p>
 
 <p align="center">
-<a href="https://github.com/myrmoon/evemirage-releases/releases/latest"><img src="assets/en/download.png" height="44" alt="DOWNLOAD FOR WINDOWS"></a>&nbsp;
+<a href="https://github.com/myrmoon/evemirage-releases/releases/latest/download/EveMirage-Setup.exe"><img src="assets/en/download.png" height="44" alt="DOWNLOAD FOR WINDOWS"></a>&nbsp;
 <a href="#release-log"><img src="assets/en/release-notes.png" height="41" alt="RELEASE NOTES"></a>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/v/release/myrmoon/evemirage-releases?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=version" alt="version">
-<img src="https://img.shields.io/github/release-date/myrmoon/evemirage-releases?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=released" alt="released">
+<img src="https://img.shields.io/badge/version-1.0.6-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
+<img src="https://img.shields.io/badge/released-oct%2029%2C%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="released">
 <img src="https://img.shields.io/github/downloads/myrmoon/evemirage-releases/total?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=downloads" alt="downloads">
 <img src="https://img.shields.io/badge/windows-10%20%C2%B7%2011-F5A524?style=for-the-badge&labelColor=1B1E23" alt="Windows 10 · 11">
 </p>
@@ -176,7 +176,7 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 
 <table>
 <tr>
-<td width="33%" valign="top"><h3>Install</h3>Download the installer from the <a href="https://github.com/myrmoon/evemirage-releases/releases/latest">latest release</a>, run it, then connect a character. Windows 10 or 11.</td>
+<td width="33%" valign="top"><h3>Install</h3>Download the <a href="https://github.com/myrmoon/evemirage-releases/releases/latest/download/EveMirage-Setup.exe">installer</a>, run it, then connect a character. Windows 10 or 11.</td>
 <td width="33%" valign="top"><h3>Your data</h3>Everything stays on your PC. Login goes through CCP's official site; EveMirage never sees your password.</td>
 <td width="33%" valign="top"><h3>A problem?</h3>Open an <a href="https://github.com/myrmoon/evemirage-releases/issues">issue</a> on this repository.</td>
 </tr>

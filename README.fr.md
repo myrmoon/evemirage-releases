@@ -3,13 +3,13 @@
 <p align="center"><img src="assets/fr/hero.png" width="100%" alt="EVE Mirage — LA CONSOLE DE BORD DU CAPSULIER"></p>
 
 <p align="center">
-<a href="https://github.com/myrmoon/evemirage-releases/releases/latest"><img src="assets/fr/download.png" height="44" alt="TÉLÉCHARGER POUR WINDOWS"></a>&nbsp;
+<a href="https://github.com/myrmoon/evemirage-releases/releases/latest/download/EveMirage-Setup.exe"><img src="assets/fr/download.png" height="44" alt="TÉLÉCHARGER POUR WINDOWS"></a>&nbsp;
 <a href="#release-log"><img src="assets/fr/release-notes.png" height="41" alt="NOTES DE VERSION"></a>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/v/release/myrmoon/evemirage-releases?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=version" alt="version">
-<img src="https://img.shields.io/github/release-date/myrmoon/evemirage-releases?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=publi%C3%A9e" alt="publiée">
+<img src="https://img.shields.io/badge/version-1.0.6-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
+<img src="https://img.shields.io/badge/publi%C3%A9e-29%20oct.%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="publiée">
 <img src="https://img.shields.io/github/downloads/myrmoon/evemirage-releases/total?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=t%C3%A9l%C3%A9chargements" alt="téléchargements">
 <img src="https://img.shields.io/badge/windows-10%20%C2%B7%2011-F5A524?style=for-the-badge&labelColor=1B1E23" alt="Windows 10 · 11">
 </p>
@@ -176,7 +176,7 @@ EveMirage dans une langue, les objets du jeu dans une autre : <strong>deux régl
 
 <table>
 <tr>
-<td width="33%" valign="top"><h3>Installer</h3>Télécharge l'installateur depuis la <a href="https://github.com/myrmoon/evemirage-releases/releases/latest">dernière version</a>, lance-le, puis connecte un personnage. Windows 10 ou 11.</td>
+<td width="33%" valign="top"><h3>Installer</h3>Télécharge l'<a href="https://github.com/myrmoon/evemirage-releases/releases/latest/download/EveMirage-Setup.exe">installateur</a>, lance-le, puis connecte un personnage. Windows 10 ou 11.</td>
 <td width="33%" valign="top"><h3>Tes données</h3>Tout reste sur ton PC. La connexion passe par le site officiel de CCP ; EveMirage ne voit jamais ton mot de passe.</td>
 <td width="33%" valign="top"><h3>Un souci ?</h3>Ouvre une <a href="https://github.com/myrmoon/evemirage-releases/issues">issue</a> sur ce dépôt.</td>
 </tr>
