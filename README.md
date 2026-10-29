@@ -110,18 +110,30 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 
 <p align="center"><img src="assets/en/version.png" width="100%" alt="VERSION"></p>
 
+<p><strong>1.0.6</strong> — October 29, 2026</p>
+
+<p align="center"><img src="assets/en/improvements.png" width="100%" alt="IMPROVEMENTS"></p>
+
+<ul>
+<li>The top bar is reorganised: no more menu bar.</li>
+<li>ESI and Prices have their button at the top right, with the date of their last read.</li>
+<li>Tranquility and the number of players online, EVE time and the time until downtime are in the bar.</li>
+<li>Theme, folders, About and Quit are in Settings; Projects is in Planning, Characters in the ESI accounts.</li>
+<li>The logo in the bar follows the theme.</li>
+<li>The Missions page gives the date the missions and agents were surveyed.</li>
+<li>The exe no longer changes between versions: after this one, the antivirus stops re-examining it at every update, and startup is a little faster.</li>
+</ul>
+
+<details>
+<summary>Previous versions</summary>
+
 <p><strong>1.0.5</strong> — October 29, 2026</p>
-
-<p align="center"><img src="assets/en/fixes.png" width="100%" alt="FIXES"></p>
-
+<p><strong>Fixes</strong></p>
 <ul>
 <li>Updates are now offered in a window in the middle of EveMirage, with what the version changes.</li>
 <li>After an update, the installer no longer starts EveMirage twice.</li>
 <li>The Myrmoon logo on the installer no longer touches the corner.</li>
 </ul>
-
-<details>
-<summary>Previous versions</summary>
 
 <p><strong>1.0.4</strong> — October 29, 2026</p>
 <p><strong>Fixes</strong></p>

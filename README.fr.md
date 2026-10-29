@@ -110,18 +110,30 @@ EveMirage dans une langue, les objets du jeu dans une autre : <strong>deux régl
 
 <p align="center"><img src="assets/fr/version.png" width="100%" alt="VERSION"></p>
 
+<p><strong>1.0.6</strong> — 29 octobre 2026</p>
+
+<p align="center"><img src="assets/fr/improvements.png" width="100%" alt="AMÉLIORATIONS"></p>
+
+<ul>
+<li>La barre du haut est réorganisée : plus de barre de menus.</li>
+<li>ESI et Prix ont leur bouton en haut à droite, avec la date de leur dernière lecture.</li>
+<li>Tranquility et le nombre de joueurs connectés, l'heure EVE et le temps avant le downtime sont dans la barre.</li>
+<li>Thème, dossiers, À propos et Quitter sont dans les Réglages ; Projets est dans Planification, Personnages dans les comptes ESI.</li>
+<li>Le logo de la barre suit le thème.</li>
+<li>La page Missions donne la date du relevé des missions et des agents.</li>
+<li>L'exe ne change plus d'une version à l'autre : après celle-ci, l'antivirus ne le réexamine plus à chaque mise à jour, et le démarrage est un peu plus rapide.</li>
+</ul>
+
+<details>
+<summary>Versions précédentes</summary>
+
 <p><strong>1.0.5</strong> — 29 octobre 2026</p>
-
-<p align="center"><img src="assets/fr/fixes.png" width="100%" alt="CORRECTIONS"></p>
-
+<p><strong>Corrections</strong></p>
 <ul>
 <li>La mise à jour se propose dans une fenêtre au milieu d'EveMirage, avec ce que la version change.</li>
 <li>Après une mise à jour, l'installateur ne lance plus EveMirage deux fois.</li>
 <li>Le logo Myrmoon de l'installateur ne colle plus au coin.</li>
 </ul>
-
-<details>
-<summary>Versions précédentes</summary>
 
 <p><strong>1.0.4</strong> — 29 octobre 2026</p>
 <p><strong>Corrections</strong></p>
