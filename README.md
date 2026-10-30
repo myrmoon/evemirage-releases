@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/version-1.0.8-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
+<img src="https://img.shields.io/badge/version-1.0.9-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
 <img src="https://img.shields.io/badge/released-oct%2030%2C%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="released">
 <img src="https://img.shields.io/github/downloads/myrmoon/evemirage-releases/total?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=downloads" alt="downloads">
 <img src="https://img.shields.io/badge/windows-10%20%C2%B7%2011-F5A524?style=for-the-badge&labelColor=1B1E23" alt="Windows 10 · 11">
@@ -110,17 +110,29 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 
 <p align="center"><img src="assets/en/version.png" width="100%" alt="VERSION"></p>
 
-<p><strong>1.0.8</strong> — October 30, 2026</p>
+<p><strong>1.0.9</strong> — October 30, 2026</p>
 
 <p align="center"><img src="assets/en/improvements.png" width="100%" alt="IMPROVEMENTS"></p>
 
 <ul>
-<li>Choose the character on each page that needs it; one, several or all on the market</li>
-<li>Visual improvements</li>
+<li>Updates now download into the program folder and are removed once installed</li>
+</ul>
+
+<p align="center"><img src="assets/en/fixes.png" width="100%" alt="FIXES"></p>
+
+<ul>
+<li>Agents and “What now?” follow the character picked on another page</li>
+<li>Translation fixes</li>
 </ul>
 
 <details>
 <summary>The last 5 previous versions</summary>
+
+<p><strong>1.0.8</strong> — October 30, 2026</p>
+<ul>
+<li>Choose the character on each page that needs it; one, several or all on the market</li>
+<li>Visual improvements</li>
+</ul>
 
 <p><strong>1.0.7</strong> — October 29, 2026</p>
 <ul>
@@ -144,11 +156,6 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 <ul>
 <li>Visual and translation fixes</li>
 <li>Installer improvement</li>
-</ul>
-
-<p><strong>1.0.3</strong> — October 29, 2026</p>
-<ul>
-<li>Automatic update fix</li>
 </ul>
 </details>
 
