@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/version-1.0.7-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
-<img src="https://img.shields.io/badge/released-oct%2029%2C%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="released">
+<img src="https://img.shields.io/badge/version-1.0.8-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
+<img src="https://img.shields.io/badge/released-oct%2030%2C%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="released">
 <img src="https://img.shields.io/github/downloads/myrmoon/evemirage-releases/total?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=downloads" alt="downloads">
 <img src="https://img.shields.io/badge/windows-10%20%C2%B7%2011-F5A524?style=for-the-badge&labelColor=1B1E23" alt="Windows 10 · 11">
 </p>
@@ -27,7 +27,7 @@
 <table>
 <tr>
 <td width="50%" valign="top"><img src="assets/en/03.png" width="100%" alt="Assets"><br>
-By location and category, at Jita prices, for one character or all.</td>
+By location and category, at Jita prices, for one, several or all characters.</td>
 <td width="50%" valign="top"><img src="assets/en/04.png" width="100%" alt="Market"><br>
 Buy and sell orders in every station, your <strong>rank</strong> and the gap to the best price.</td>
 </tr>
@@ -110,84 +110,46 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 
 <p align="center"><img src="assets/en/version.png" width="100%" alt="VERSION"></p>
 
-<p><strong>1.0.7</strong> — October 29, 2026</p>
+<p><strong>1.0.8</strong> — October 30, 2026</p>
 
 <p align="center"><img src="assets/en/improvements.png" width="100%" alt="IMPROVEMENTS"></p>
 
 <ul>
-<li>An information footer at the bottom: ESI accounts, SP and ISK.</li>
-<li>Tranquility, the number of players online, EVE time and downtime are in the footer.</li>
-<li>The top bar is lighter: the breadcrumb and compact mode move up into it, the page gains a row.</li>
-<li>The logo has its new proportions.</li>
-</ul>
-
-<p align="center"><img src="assets/en/fixes.png" width="100%" alt="FIXES"></p>
-
-<ul>
-<li>No more yellow strip at the bottom of the window.</li>
-<li>“No tracked character” is shown on the dashboard, which opens the ESI accounts.</li>
+<li>Choose the character on each page that needs it; one, several or all on the market</li>
+<li>Visual improvements</li>
 </ul>
 
 <details>
-<summary>Previous versions</summary>
+<summary>The last 5 previous versions</summary>
+
+<p><strong>1.0.7</strong> — October 29, 2026</p>
+<ul>
+<li>New information footer: ESI accounts, SP, ISK, server and EVE time</li>
+<li>Visual improvements</li>
+</ul>
 
 <p><strong>1.0.6</strong> — October 29, 2026</p>
-<p><strong>Improvements</strong></p>
 <ul>
-<li>The top bar is reorganised: no more menu bar.</li>
-<li>ESI and Prices have their button at the top right, with the date of their last read.</li>
-<li>Tranquility and the number of players online, EVE time and the time until downtime are in the bar.</li>
-<li>Theme, folders, About and Quit are in Settings; Projects is in Planning, Characters in the ESI accounts.</li>
-<li>The logo in the bar follows the theme.</li>
-<li>The Missions page gives the date the missions and agents were surveyed.</li>
-<li>The exe no longer changes between versions: after this one, the antivirus stops re-examining it at every update, and startup is a little faster.</li>
+<li>Visual improvements</li>
+<li>Installer improvement</li>
 </ul>
 
 <p><strong>1.0.5</strong> — October 29, 2026</p>
-<p><strong>Fixes</strong></p>
 <ul>
-<li>Updates are now offered in a window in the middle of EveMirage, with what the version changes.</li>
-<li>After an update, the installer no longer starts EveMirage twice.</li>
-<li>The Myrmoon logo on the installer no longer touches the corner.</li>
+<li>The update is offered in a window</li>
+<li>Installer improvement</li>
 </ul>
 
 <p><strong>1.0.4</strong> — October 29, 2026</p>
-<p><strong>Fixes</strong></p>
 <ul>
-<li>The EveMirage logo now shows reliably at startup.</li>
-<li>The installer no longer starts EveMirage twice when you click Finish.</li>
-<li>The Skills badge shows the date of the last ESI reading instead of “unknown”.</li>
-<li>Offline messages in Orders, Contracts and Industry jobs are now in English.</li>
-<li>The installer and uninstaller carry the Myrmoon logo.</li>
+<li>Visual and translation fixes</li>
+<li>Installer improvement</li>
 </ul>
 
 <p><strong>1.0.3</strong> — October 29, 2026</p>
-<p><strong>Fixes</strong></p>
 <ul>
-<li>Automatic updates now come from the new release repository.</li>
+<li>Automatic update fix</li>
 </ul>
-
-<p><strong>1.0.2</strong> — October 29, 2026</p>
-<p><strong>Fixes</strong></p>
-<ul>
-<li>Page titles are now translated: Orders, Contracts, Industry jobs, Remote agents.</li>
-<li>“Announcement” is no longer cut off on the dashboard.</li>
-</ul>
-
-<p><strong>1.0.1</strong> — October 28, 2026 · first public release</p>
-<p><strong>Improvements</strong></p>
-<ul>
-<li><strong>Automatic update</strong>: EveMirage offers the next version and installs it, signature checked.</li>
-<li>Installs for your Windows account only, no administrator rights.</li>
-<li>Corporation service: general page, structure fuel, in-game events.</li>
-</ul>
-<p><strong>Fixes</strong></p>
-<ul>
-<li>Queue checkboxes stayed ticked after switching character.</li>
-<li>The FUEL line was wrongly shown in red.</li>
-<li>An event link only opens if it starts with <code>https://</code>.</li>
-</ul>
-<p><strong>1.0</strong> — October 27, 2026 · shared with the first testers, without automatic update.</p>
 </details>
 
 <table>
