@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/version-1.0.10-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
-<img src="https://img.shields.io/badge/publi%C3%A9e-1%20nov.%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="publiée">
+<img src="https://img.shields.io/badge/version-1.0.11-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
+<img src="https://img.shields.io/badge/publi%C3%A9e-2%20nov.%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="publiée">
 <img src="https://img.shields.io/github/downloads/myrmoon/evemirage-releases/total?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=t%C3%A9l%C3%A9chargements" alt="téléchargements">
 <img src="https://img.shields.io/badge/windows-10%20%C2%B7%2011-F5A524?style=for-the-badge&labelColor=1B1E23" alt="Windows 10 · 11">
 </p>
@@ -110,26 +110,35 @@ EveMirage dans une langue, les objets du jeu dans une autre : <strong>deux régl
 
 <p align="center"><img src="assets/fr/version.png" width="100%" alt="VERSION"></p>
 
-<p><strong>1.0.10</strong> — 1 novembre 2026</p>
+<p><strong>1.0.11</strong> — 2 novembre 2026</p>
 
 <p align="center"><img src="assets/fr/improvements.png" width="100%" alt="AMÉLIORATIONS"></p>
 
 <ul>
-<li>Passages : plusieurs cartes, pilotes présents sur la carte, structures relevées au D-scan</li>
-<li>Nouvelle page Navigation &gt; Routes : itinéraire avec la chaleur de chaque système, Thera et Turnur, favoris et routes favorites</li>
-<li>Planetary : extracteurs, production par produit, alertes Discord ou Windows au choix</li>
-<li>Améliorations visuelles</li>
+<li>ESI et prix du marché relus au lancement ; l'ESI au plus une fois par minute, les prix une fois par heure</li>
+<li>Les pages de prix relisent leurs prix à leur ouverture</li>
+<li>Nouvelles icônes pour Navigation, Cartographie, Intel et Routes ; Navigation passe après Missions</li>
 </ul>
 
 <p align="center"><img src="assets/fr/fixes.png" width="100%" alt="CORRECTIONS"></p>
 
 <ul>
-<li>La notification Windows n'utilise plus PowerShell (Norton la bloquait)</li>
-<li>Installateur moins suspect pour les antivirus</li>
+<li>Une relecture de prix dit pourquoi quand il n'y a rien à chiffrer</li>
+<li>Le nom de l'éditeur des installateurs est celui du programme</li>
 </ul>
 
 <details>
 <summary>Les 5 versions précédentes</summary>
+
+<p><strong>1.0.10</strong> — 1 novembre 2026</p>
+<ul>
+<li>Passages : plusieurs cartes, pilotes présents sur la carte, structures relevées au D-scan</li>
+<li>Nouvelle page Navigation &gt; Routes : itinéraire avec la chaleur de chaque système, Thera et Turnur, favoris et routes favorites</li>
+<li>Planetary : extracteurs, production par produit, alertes Discord ou Windows au choix</li>
+<li>Améliorations visuelles</li>
+<li>La notification Windows n'utilise plus PowerShell (Norton la bloquait)</li>
+<li>Installateur moins suspect pour les antivirus</li>
+</ul>
 
 <p><strong>1.0.9</strong> — 30 octobre 2026</p>
 <ul>
@@ -152,12 +161,6 @@ EveMirage dans une langue, les objets du jeu dans une autre : <strong>deux régl
 <p><strong>1.0.6</strong> — 29 octobre 2026</p>
 <ul>
 <li>Améliorations visuelles</li>
-<li>Amélioration de l'installateur</li>
-</ul>
-
-<p><strong>1.0.5</strong> — 29 octobre 2026</p>
-<ul>
-<li>La mise à jour se propose dans une fenêtre</li>
 <li>Amélioration de l'installateur</li>
 </ul>
 </details>

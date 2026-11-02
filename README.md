@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/version-1.0.10-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
-<img src="https://img.shields.io/badge/released-nov%201%2C%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="released">
+<img src="https://img.shields.io/badge/version-1.0.11-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
+<img src="https://img.shields.io/badge/released-nov%202%2C%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="released">
 <img src="https://img.shields.io/github/downloads/myrmoon/evemirage-releases/total?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=downloads" alt="downloads">
 <img src="https://img.shields.io/badge/windows-10%20%C2%B7%2011-F5A524?style=for-the-badge&labelColor=1B1E23" alt="Windows 10 · 11">
 </p>
@@ -110,26 +110,35 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 
 <p align="center"><img src="assets/en/version.png" width="100%" alt="VERSION"></p>
 
-<p><strong>1.0.10</strong> — November 1, 2026</p>
+<p><strong>1.0.11</strong> — November 2, 2026</p>
 
 <p align="center"><img src="assets/en/improvements.png" width="100%" alt="IMPROVEMENTS"></p>
 
 <ul>
-<li>Passages: several maps, pilots shown on the map, structures read from the D-scan</li>
-<li>New Navigation &gt; Routes page: a route with the heat of each system, Thera and Turnur, favourites and favourite routes</li>
-<li>Planetary: extractors, production per product, Discord or Windows alerts, your choice</li>
-<li>Visual improvements</li>
+<li>ESI and market prices reread at launch; ESI at most once a minute, prices at most once an hour</li>
+<li>Price pages reread their prices when opened</li>
+<li>New icons for Navigation, Mapping, Intel and Routes; Navigation now follows Missions</li>
 </ul>
 
 <p align="center"><img src="assets/en/fixes.png" width="100%" alt="FIXES"></p>
 
 <ul>
-<li>The Windows notification no longer uses PowerShell (Norton blocked it)</li>
-<li>Installer less suspicious to antivirus software</li>
+<li>Price rereads say why when there is nothing to price</li>
+<li>The installers' publisher name matches the program's</li>
 </ul>
 
 <details>
 <summary>The last 5 previous versions</summary>
+
+<p><strong>1.0.10</strong> — November 1, 2026</p>
+<ul>
+<li>Passages: several maps, pilots shown on the map, structures read from the D-scan</li>
+<li>New Navigation &gt; Routes page: a route with the heat of each system, Thera and Turnur, favourites and favourite routes</li>
+<li>Planetary: extractors, production per product, Discord or Windows alerts, your choice</li>
+<li>Visual improvements</li>
+<li>The Windows notification no longer uses PowerShell (Norton blocked it)</li>
+<li>Installer less suspicious to antivirus software</li>
+</ul>
 
 <p><strong>1.0.9</strong> — October 30, 2026</p>
 <ul>
@@ -152,12 +161,6 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 <p><strong>1.0.6</strong> — October 29, 2026</p>
 <ul>
 <li>Visual improvements</li>
-<li>Installer improvement</li>
-</ul>
-
-<p><strong>1.0.5</strong> — October 29, 2026</p>
-<ul>
-<li>The update is offered in a window</li>
 <li>Installer improvement</li>
 </ul>
 </details>
