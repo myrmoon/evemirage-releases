@@ -26,15 +26,27 @@
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="assets/fr/03.png" width="100%" alt="Assets"><br>
+<td width="50%" valign="top"><img src="assets/fr/03.png" width="100%" alt="Ta page"><br>
+Chaque membre a sa page : portrait, rôles du jeu, quelques mots sur lui et huit <strong>badges</strong>, de Bronze à Violet, gagnés au minage, à l'interaction planétaire, en PvE, en PvP, en exploration, en industrie, au commerce et dans la vie de la corporation.</td>
+<td width="50%" valign="top"><img src="assets/fr/04.png" width="100%" alt="Ton PC"><br>
+Remplis le formulaire de la communauté (processeur, carte graphique, écran, périphériques…) et ta corporation voit ta <strong>configuration</strong> sur ta page. Tu choisis ce que tu partages.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><img src="assets/fr/05.png" width="100%" alt="Assets"><br>
 Par lieu et par catégorie, au prix de Jita, pour un, plusieurs ou tous les personnages.</td>
-<td width="50%" valign="top"><img src="assets/fr/04.png" width="100%" alt="Marché"><br>
+<td width="50%" valign="top"><img src="assets/fr/06.png" width="100%" alt="Marché"><br>
 Ordres d'achat et de vente dans chaque station, ton <strong>rang</strong> et l'écart au meilleur prix.</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="assets/fr/05.png" width="100%" alt="Thèmes"><br>
+<td width="50%" valign="top"><img src="assets/fr/07.png" width="100%" alt="Minage"><br>
+Valeur minée par jour, par minerai et par personnage, au prix d'achat de Jita, de vente de Jita ou raffiné, avec le journal, les campagnes et les lunes à un onglet de là.</td>
+<td width="50%" valign="top"><img src="assets/fr/08.png" width="100%" alt="Menus"><br>
+Six menus rangent les pages que le tableau de bord ne montre jamais : <strong>Killboard, D-Scan, Scout, PI, routes, Intel, calculatrice</strong> et d'autres.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><img src="assets/fr/09.png" width="100%" alt="Thèmes"><br>
 Ambre, Acier bleu, Néon cyan et Papier clair : on change à tout moment depuis le menu Thème.</td>
-<td width="50%" valign="top"><img src="assets/fr/06.png" width="100%" alt="Langues"><br>
+<td width="50%" valign="top"><img src="assets/fr/10.png" width="100%" alt="Langues"><br>
 EveMirage dans une langue, les objets du jeu dans une autre : <strong>deux réglages indépendants</strong>.</td>
 </tr>
 </table>

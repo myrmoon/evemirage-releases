@@ -26,15 +26,27 @@
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="assets/en/03.png" width="100%" alt="Assets"><br>
+<td width="50%" valign="top"><img src="assets/en/03.png" width="100%" alt="Your page"><br>
+Each member has a page: portrait, game roles, a few words about themselves and eight <strong>badges</strong>, from Bronze to Violet, earned by mining, planetary interaction, PvE, PvP, exploration, industry, trade and life in the corporation.</td>
+<td width="50%" valign="top"><img src="assets/en/04.png" width="100%" alt="Your setup"><br>
+Fill in the community's form (processor, graphics card, screen, peripherals…) and your corporation mates see your <strong>setup</strong> on your page. You choose what to share.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><img src="assets/en/05.png" width="100%" alt="Assets"><br>
 By location and category, at Jita prices, for one, several or all characters.</td>
-<td width="50%" valign="top"><img src="assets/en/04.png" width="100%" alt="Market"><br>
+<td width="50%" valign="top"><img src="assets/en/06.png" width="100%" alt="Market"><br>
 Buy and sell orders in every station, your <strong>rank</strong> and the gap to the best price.</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="assets/en/05.png" width="100%" alt="Themes"><br>
+<td width="50%" valign="top"><img src="assets/en/07.png" width="100%" alt="Mining"><br>
+Value mined per day, by ore and by character, priced at Jita buy, Jita sell or refined, with the log, campaigns and moons one tab away.</td>
+<td width="50%" valign="top"><img src="assets/en/08.png" width="100%" alt="Menus"><br>
+Six menus group the pages the dashboard never shows: <strong>Killboard, D-Scan, Scout, PI, routes, intel, calculator</strong> and more.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><img src="assets/en/09.png" width="100%" alt="Themes"><br>
 Amber, Steel blue, Neon cyan and Light paper: switch at any time from the Theme menu.</td>
-<td width="50%" valign="top"><img src="assets/en/06.png" width="100%" alt="Languages"><br>
+<td width="50%" valign="top"><img src="assets/en/10.png" width="100%" alt="Languages"><br>
 Read EveMirage in one language and the game's items in another: <strong>two independent settings</strong>.</td>
 </tr>
 </table>
