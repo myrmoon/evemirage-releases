@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/version-1.0.11-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
-<img src="https://img.shields.io/badge/publi%C3%A9e-2%20nov.%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="publiée">
+<img src="https://img.shields.io/badge/version-1.0.14-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
+<img src="https://img.shields.io/badge/publi%C3%A9e-6%20nov.%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="publiée">
 <img src="https://img.shields.io/github/downloads/myrmoon/evemirage-releases/total?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=t%C3%A9l%C3%A9chargements" alt="téléchargements">
 <img src="https://img.shields.io/badge/windows-10%20%C2%B7%2011-F5A524?style=for-the-badge&labelColor=1B1E23" alt="Windows 10 · 11">
 </p>
@@ -110,25 +110,29 @@ EveMirage dans une langue, les objets du jeu dans une autre : <strong>deux régl
 
 <p align="center"><img src="assets/fr/version.png" width="100%" alt="VERSION"></p>
 
-<p><strong>1.0.11</strong> — 2 novembre 2026</p>
+<p><strong>1.0.14</strong> — 6 novembre 2026</p>
 
 <p align="center"><img src="assets/fr/improvements.png" width="100%" alt="AMÉLIORATIONS"></p>
 
 <ul>
-<li>ESI et prix du marché relus au lancement ; l'ESI au plus une fois par minute, les prix une fois par heure</li>
-<li>Les pages de prix relisent leurs prix à leur ouverture</li>
-<li>Nouvelles icônes pour Navigation, Cartographie, Intel et Routes ; Navigation passe après Missions</li>
-</ul>
-
-<p align="center"><img src="assets/fr/fixes.png" width="100%" alt="CORRECTIONS"></p>
-
-<ul>
-<li>Une relecture de prix dit pourquoi quand il n'y a rien à chiffrer</li>
-<li>Le nom de l'éditeur des installateurs est celui du programme</li>
+<li>Tableau de bord : les accélérateurs tiennent dans une carte (« 5 / 6 »), et chaque personnage a sa ligne avec l'icône du bonus et la barre du temps restant</li>
+<li>Le downtime s'affiche sous la forme « DT 12:00 (EVE Time 11:00) », à l'heure de votre PC</li>
+<li>D-Scan refait</li>
+<li>Killboard de la corporation et cadre Corporation</li>
+<li>Améliorations visuelles</li>
 </ul>
 
 <details>
 <summary>Les 5 versions précédentes</summary>
+
+<p><strong>1.0.11</strong> — 2 novembre 2026</p>
+<ul>
+<li>ESI et prix du marché relus au lancement ; l'ESI au plus une fois par minute, les prix une fois par heure</li>
+<li>Les pages de prix relisent leurs prix à leur ouverture</li>
+<li>Nouvelles icônes pour Navigation, Cartographie, Intel et Routes ; Navigation passe après Missions</li>
+<li>Une relecture de prix dit pourquoi quand il n'y a rien à chiffrer</li>
+<li>Le nom de l'éditeur des installateurs est celui du programme</li>
+</ul>
 
 <p><strong>1.0.10</strong> — 1 novembre 2026</p>
 <ul>
@@ -156,12 +160,6 @@ EveMirage dans une langue, les objets du jeu dans une autre : <strong>deux régl
 <ul>
 <li>Nouveau pied d'informations : comptes ESI, SP, ISK, serveur et heure EVE</li>
 <li>Améliorations visuelles</li>
-</ul>
-
-<p><strong>1.0.6</strong> — 29 octobre 2026</p>
-<ul>
-<li>Améliorations visuelles</li>
-<li>Amélioration de l'installateur</li>
 </ul>
 </details>
 
