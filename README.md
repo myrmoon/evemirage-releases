@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/version-1.0.16-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
+<img src="https://img.shields.io/badge/version-1.0.17-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
 <img src="https://img.shields.io/badge/released-nov%206%2C%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="released">
 <img src="https://img.shields.io/github/downloads/myrmoon/evemirage-releases/total?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=downloads" alt="downloads">
 <img src="https://img.shields.io/badge/windows-10%20%C2%B7%2011-F5A524?style=for-the-badge&labelColor=1B1E23" alt="Windows 10 · 11">
@@ -122,18 +122,23 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 
 <p align="center"><img src="assets/en/version.png" width="100%" alt="VERSION"></p>
 
-<p><strong>1.0.16</strong> — November 6, 2026</p>
+<p><strong>1.0.17</strong> — November 6, 2026</p>
 
 <p align="center"><img src="assets/en/improvements.png" width="100%" alt="IMPROVEMENTS"></p>
 
+<ul>
+<li>Market › Orders: five cards above the table sum up your orders at a glance — number of orders, value for sale, value being bought, your position against the competition and what expires soon</li>
+</ul>
+
+<details>
+<summary>The last 5 previous versions</summary>
+
+<p><strong>1.0.16</strong> — November 6, 2026</p>
 <ul>
 <li>Wallet: a "Gifts / Loans" button shows what you gave or received, player by player and corporation by corporation</li>
 <li>Each exchange can be qualified (gift, loan, repayment; dues or settlement for a corporation) with a note, and a "Loans / Debts" table shows what you are owed and what you owe</li>
 <li>Qualifications follow you across all your PCs through the sync folder</li>
 </ul>
-
-<details>
-<summary>The last 5 previous versions</summary>
 
 <p><strong>1.0.15</strong> — November 6, 2026</p>
 <ul>
@@ -168,12 +173,6 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 <li>Visual improvements</li>
 <li>The Windows notification no longer uses PowerShell (Norton blocked it)</li>
 <li>Installer less suspicious to antivirus software</li>
-</ul>
-
-<p><strong>1.0.9</strong> — October 30, 2026</p>
-<ul>
-<li>Updates download into the program folder and are removed once installed</li>
-<li>Translation fixes</li>
 </ul>
 </details>
 

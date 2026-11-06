@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/version-1.0.16-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
+<img src="https://img.shields.io/badge/version-1.0.17-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
 <img src="https://img.shields.io/badge/publi%C3%A9e-6%20nov.%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="publiée">
 <img src="https://img.shields.io/github/downloads/myrmoon/evemirage-releases/total?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=t%C3%A9l%C3%A9chargements" alt="téléchargements">
 <img src="https://img.shields.io/badge/windows-10%20%C2%B7%2011-F5A524?style=for-the-badge&labelColor=1B1E23" alt="Windows 10 · 11">
@@ -122,18 +122,23 @@ EveMirage dans une langue, les objets du jeu dans une autre : <strong>deux régl
 
 <p align="center"><img src="assets/fr/version.png" width="100%" alt="VERSION"></p>
 
-<p><strong>1.0.16</strong> — 6 novembre 2026</p>
+<p><strong>1.0.17</strong> — 6 novembre 2026</p>
 
 <p align="center"><img src="assets/fr/improvements.png" width="100%" alt="AMÉLIORATIONS"></p>
 
+<ul>
+<li>Marché › Ordres : cinq cartes en haut du tableau résument tes ordres d'un coup d'œil — nombre d'ordres, valeur en vente, valeur en achat, ta position face à la concurrence et ce qui expire bientôt</li>
+</ul>
+
+<details>
+<summary>Les 5 versions précédentes</summary>
+
+<p><strong>1.0.16</strong> — 6 novembre 2026</p>
 <ul>
 <li>Portefeuille : un bouton « Dons / Prêts » montre ce que tu as donné ou reçu, joueur par joueur et corporation par corporation</li>
 <li>Chaque échange se qualifie (don, prêt, remboursement ; cotisation ou règlement pour une corporation), avec une note, et un tableau « Prêts / Dettes » dit ce qu'on te doit et ce que tu dois</li>
 <li>Les qualifications se retrouvent sur tous tes PC via le dossier de synchro</li>
 </ul>
-
-<details>
-<summary>Les 5 versions précédentes</summary>
 
 <p><strong>1.0.15</strong> — 6 novembre 2026</p>
 <ul>
@@ -168,12 +173,6 @@ EveMirage dans une langue, les objets du jeu dans une autre : <strong>deux régl
 <li>Améliorations visuelles</li>
 <li>La notification Windows n'utilise plus PowerShell (Norton la bloquait)</li>
 <li>Installateur moins suspect pour les antivirus</li>
-</ul>
-
-<p><strong>1.0.9</strong> — 30 octobre 2026</p>
-<ul>
-<li>Les mises à jour se téléchargent dans le dossier du programme et s'effacent une fois installées</li>
-<li>Corrections de traduction</li>
 </ul>
 </details>
 
