@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/version-1.0.17-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
-<img src="https://img.shields.io/badge/released-nov%206%2C%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="released">
+<img src="https://img.shields.io/badge/version-1.1.0-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
+<img src="https://img.shields.io/badge/released-nov%207%2C%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="released">
 <img src="https://img.shields.io/github/downloads/myrmoon/evemirage-releases/total?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=downloads" alt="downloads">
 <img src="https://img.shields.io/badge/windows-10%20%C2%B7%2011-F5A524?style=for-the-badge&labelColor=1B1E23" alt="Windows 10 · 11">
 </p>
@@ -122,16 +122,30 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 
 <p align="center"><img src="assets/en/version.png" width="100%" alt="VERSION"></p>
 
-<p><strong>1.0.17</strong> — November 6, 2026</p>
+<p><strong>1.1.0</strong> — November 7, 2026</p>
 
 <p align="center"><img src="assets/en/improvements.png" width="100%" alt="IMPROVEMENTS"></p>
 
 <ul>
-<li>Market › Orders: five cards above the table sum up your orders at a glance — number of orders, value for sale, value being bought, your position against the competition and what expires soon</li>
+<li>Planning: training times (plans, remaps, skill browser) account for the active cerebral accelerator, and for Biology at the moment it was started</li>
+<li>Characters: "Only…" keeps a single character, or takes them all back, in one gesture in character lists</li>
+<li>Corporation: report an absence (holiday, illness…) on the activity calendar</li>
+<li>Visual improvements</li>
+</ul>
+
+<p align="center"><img src="assets/en/fixes.png" width="100%" alt="FIXES"></p>
+
+<ul>
+<li>The update window comes in front of any loading: "Install now" responds</li>
 </ul>
 
 <details>
 <summary>The last 5 previous versions</summary>
+
+<p><strong>1.0.17</strong> — November 6, 2026</p>
+<ul>
+<li>Market › Orders: five cards above the table sum up your orders at a glance — number of orders, value for sale, value being bought, your position against the competition and what expires soon</li>
+</ul>
 
 <p><strong>1.0.16</strong> — November 6, 2026</p>
 <ul>
@@ -163,16 +177,6 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 <li>New icons for Navigation, Mapping, Intel and Routes; Navigation now follows Missions</li>
 <li>Price rereads say why when there is nothing to price</li>
 <li>The installers' publisher name matches the program's</li>
-</ul>
-
-<p><strong>1.0.10</strong> — November 1, 2026</p>
-<ul>
-<li>Passages: several maps, pilots shown on the map, structures read from the D-scan</li>
-<li>New Navigation &gt; Routes page: a route with the heat of each system, Thera and Turnur, favourites and favourite routes</li>
-<li>Planetary: extractors, production per product, Discord or Windows alerts, your choice</li>
-<li>Visual improvements</li>
-<li>The Windows notification no longer uses PowerShell (Norton blocked it)</li>
-<li>Installer less suspicious to antivirus software</li>
 </ul>
 </details>
 
