@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/version-1.1.0-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
+<img src="https://img.shields.io/badge/version-1.1.1-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
 <img src="https://img.shields.io/badge/released-nov%207%2C%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="released">
 <img src="https://img.shields.io/github/downloads/myrmoon/evemirage-releases/total?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=downloads" alt="downloads">
 <img src="https://img.shields.io/badge/windows-10%20%C2%B7%2011-F5A524?style=for-the-badge&labelColor=1B1E23" alt="Windows 10 · 11">
@@ -124,25 +124,26 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 
 <p align="center"><img src="assets/en/version.png" width="100%" alt="VERSION"></p>
 
-<p><strong>1.1.0</strong> — November 7, 2026</p>
+<p><strong>1.1.1</strong> — November 7, 2026</p>
 
 <p align="center"><img src="assets/en/improvements.png" width="100%" alt="IMPROVEMENTS"></p>
 
+<ul>
+<li>Faster loading with many characters: their data is now read at the same time</li>
+<li>PvE Missions: you can type in "Filter" as soon as you open the page</li>
+</ul>
+
+<details>
+<summary>The last 5 previous versions</summary>
+
+<p><strong>1.1.0</strong> — November 7, 2026</p>
 <ul>
 <li>Planning: training times (plans, remaps, skill browser) account for the active cerebral accelerator, and for Biology at the moment it was started</li>
 <li>Characters: "Only…" keeps a single character, or takes them all back, in one gesture in character lists</li>
 <li>Corporation: report an absence (holiday, illness…) on the activity calendar</li>
 <li>Visual improvements</li>
-</ul>
-
-<p align="center"><img src="assets/en/fixes.png" width="100%" alt="FIXES"></p>
-
-<ul>
 <li>The update window comes in front of any loading: "Install now" responds</li>
 </ul>
-
-<details>
-<summary>The last 5 previous versions</summary>
 
 <p><strong>1.0.17</strong> — November 6, 2026</p>
 <ul>
@@ -170,15 +171,6 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 <li>D-Scan rebuilt</li>
 <li>Corporation killboard and Corporation frame</li>
 <li>Visual improvements</li>
-</ul>
-
-<p><strong>1.0.11</strong> — November 2, 2026</p>
-<ul>
-<li>ESI and market prices reread at launch; ESI at most once a minute, prices at most once an hour</li>
-<li>Price pages reread their prices when opened</li>
-<li>New icons for Navigation, Mapping, Intel and Routes; Navigation now follows Missions</li>
-<li>Price rereads say why when there is nothing to price</li>
-<li>The installers' publisher name matches the program's</li>
 </ul>
 </details>
 

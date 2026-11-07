@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/version-1.1.0-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
+<img src="https://img.shields.io/badge/version-1.1.1-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
 <img src="https://img.shields.io/badge/publi%C3%A9e-7%20nov.%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="publiée">
 <img src="https://img.shields.io/github/downloads/myrmoon/evemirage-releases/total?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=t%C3%A9l%C3%A9chargements" alt="téléchargements">
 <img src="https://img.shields.io/badge/windows-10%20%C2%B7%2011-F5A524?style=for-the-badge&labelColor=1B1E23" alt="Windows 10 · 11">
@@ -124,25 +124,26 @@ EveMirage dans une langue, les objets du jeu dans une autre : <strong>deux régl
 
 <p align="center"><img src="assets/fr/version.png" width="100%" alt="VERSION"></p>
 
-<p><strong>1.1.0</strong> — 7 novembre 2026</p>
+<p><strong>1.1.1</strong> — 7 novembre 2026</p>
 
 <p align="center"><img src="assets/fr/improvements.png" width="100%" alt="AMÉLIORATIONS"></p>
 
+<ul>
+<li>Chargements plus rapides quand on a beaucoup de personnages : leurs lectures se font désormais en même temps</li>
+<li>Missions PvE : on peut écrire dans « Filtrer » dès l'arrivée sur la page</li>
+</ul>
+
+<details>
+<summary>Les 5 versions précédentes</summary>
+
+<p><strong>1.1.0</strong> — 7 novembre 2026</p>
 <ul>
 <li>Planification : les durées de formation (plans, remaps, navigateur de compétences) tiennent compte de l'accélérateur cérébral actif, et de Biology au moment où il a été lancé</li>
 <li>Personnages : « Seulement… » garde un seul personnage, ou les reprend tous, d'un geste dans les listes à personnages</li>
 <li>Corporation : signaler une absence (vacances, maladie…) sur le calendrier des activités</li>
 <li>Améliorations visuelles</li>
-</ul>
-
-<p align="center"><img src="assets/fr/fixes.png" width="100%" alt="CORRECTIONS"></p>
-
-<ul>
 <li>La fenêtre de mise à jour passe devant toute lecture : « Installer maintenant » répond</li>
 </ul>
-
-<details>
-<summary>Les 5 versions précédentes</summary>
 
 <p><strong>1.0.17</strong> — 6 novembre 2026</p>
 <ul>
@@ -170,15 +171,6 @@ EveMirage dans une langue, les objets du jeu dans une autre : <strong>deux régl
 <li>D-Scan refait</li>
 <li>Killboard de la corporation et cadre Corporation</li>
 <li>Améliorations visuelles</li>
-</ul>
-
-<p><strong>1.0.11</strong> — 2 novembre 2026</p>
-<ul>
-<li>ESI et prix du marché relus au lancement ; l'ESI au plus une fois par minute, les prix une fois par heure</li>
-<li>Les pages de prix relisent leurs prix à leur ouverture</li>
-<li>Nouvelles icônes pour Navigation, Cartographie, Intel et Routes ; Navigation passe après Missions</li>
-<li>Une relecture de prix dit pourquoi quand il n'y a rien à chiffrer</li>
-<li>Le nom de l'éditeur des installateurs est celui du programme</li>
 </ul>
 </details>
 
