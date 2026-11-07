@@ -40,8 +40,8 @@ Buy and sell orders in every station, your <strong>rank</strong> and the gap to 
 <tr>
 <td width="50%" valign="top"><img src="assets/en/07.png" width="100%" alt="Mining"><br>
 Value mined per day, by ore and by character, priced at Jita buy, Jita sell or refined, with the log, campaigns and moons one tab away.</td>
-<td width="50%" valign="top"><img src="assets/en/08.png" width="100%" alt="Menus"><br>
-Six menus group the pages the dashboard never shows: <strong>Killboard, D-Scan, Scout, PI, routes, intel, calculator</strong> and more.</td>
+<td width="50%" valign="top"><img src="assets/en/08.png" width="100%" alt="Toolbox"><br>
+A multi-tool for the whole game: <strong>D-Scan, killboard, Scout, planetary interaction, routes and mapping, Intel, industry jobs, standings, Epic Arcs, notes, calculator and wallet</strong>. All of it is listed below.</td>
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="assets/en/09.png" width="100%" alt="Themes"><br>
@@ -102,9 +102,11 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 </ul></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><h3>Communication</h3>
+<td width="50%" valign="top"><h3>Communication & tools</h3>
 <ul>
 <li>EVE mail, read and written from EveMirage</li>
+<li>D-Scan, routes, mapping, Intel</li>
+<li>Notes, calculator, wallet</li>
 </ul></td>
 <td width="50%" valign="top"><h3>Everyday</h3>
 <ul>

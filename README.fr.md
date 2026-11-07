@@ -40,8 +40,8 @@ Ordres d'achat et de vente dans chaque station, ton <strong>rang</strong> et l'�
 <tr>
 <td width="50%" valign="top"><img src="assets/fr/07.png" width="100%" alt="Minage"><br>
 Valeur minée par jour, par minerai et par personnage, au prix d'achat de Jita, de vente de Jita ou raffiné, avec le journal, les campagnes et les lunes à un onglet de là.</td>
-<td width="50%" valign="top"><img src="assets/fr/08.png" width="100%" alt="Menus"><br>
-Six menus rangent les pages que le tableau de bord ne montre jamais : <strong>Killboard, D-Scan, Scout, PI, routes, Intel, calculatrice</strong> et d'autres.</td>
+<td width="50%" valign="top"><img src="assets/fr/08.png" width="100%" alt="Boîte à outils"><br>
+Un multi-outil pour tout le jeu : <strong>D-Scan, killboard, Scout, interaction planétaire, routes et cartographie, Intel, jobs d'industrie, standings, Epic Arcs, notes, calculatrice et portefeuille</strong>. Le détail est plus bas.</td>
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="assets/fr/09.png" width="100%" alt="Thèmes"><br>
@@ -102,9 +102,11 @@ EveMirage dans une langue, les objets du jeu dans une autre : <strong>deux régl
 </ul></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><h3>Communication</h3>
+<td width="50%" valign="top"><h3>Communication et outils</h3>
 <ul>
 <li>Mail EVE, lu et écrit depuis EveMirage</li>
+<li>D-Scan, routes, cartographie, Intel</li>
+<li>Notes, calculatrice, portefeuille</li>
 </ul></td>
 <td width="50%" valign="top"><h3>Au quotidien</h3>
 <ul>
