@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/version-1.1.3-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
+<img src="https://img.shields.io/badge/version-1.1.3b-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
 <img src="https://img.shields.io/badge/publi%C3%A9e-8%20nov.%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="publiée">
 <img src="https://img.shields.io/github/downloads/myrmoon/evemirage-releases/total?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=t%C3%A9l%C3%A9chargements" alt="téléchargements">
 <img src="https://img.shields.io/badge/windows-10%20%C2%B7%2011-F5A524?style=for-the-badge&labelColor=1B1E23" alt="Windows 10 · 11">
@@ -124,24 +124,30 @@ EveMirage dans une langue, les objets du jeu dans une autre : <strong>deux régl
 
 <p align="center"><img src="assets/fr/version.png" width="100%" alt="VERSION"></p>
 
-<p><strong>1.1.3</strong> — 8 novembre 2026</p>
+<p><strong>1.1.3b</strong> — 8 novembre 2026</p>
 
 <p align="center"><img src="assets/fr/improvements.png" width="100%" alt="AMÉLIORATIONS"></p>
 
 <ul>
-<li>Standings en tableau façon bourse : les factions et corporations favorites qui ont bougé, avec leur variation sur 24 h, 3 j, 7 j ou 1 m</li>
-<li>Accélérateurs et cartes des personnages plus lisibles (Ω et α)</li>
+<li>Badge Ω / α des personnages plus grand et plus lisible</li>
 </ul>
 
 <p align="center"><img src="assets/fr/fixes.png" width="100%" alt="CORRECTIONS"></p>
 
 <ul>
-<li>Lancement plus rapide, prix relus en fond avec leur avancement près du bouton Prix</li>
-<li>Choix d'un personnage sans suivi, « Redémarrer » depuis la zone de notification, saisie plus fluide dans Missions PvE</li>
+<li>Le menu de gauche défile quand un groupe s'ouvre dans une fenêtre basse : plus de rubriques coupées</li>
 </ul>
 
 <details>
 <summary>Les 5 versions précédentes</summary>
+
+<p><strong>1.1.3</strong> — 8 novembre 2026</p>
+<ul>
+<li>Standings en tableau façon bourse : les factions et corporations favorites qui ont bougé, avec leur variation sur 24 h, 3 j, 7 j ou 1 m</li>
+<li>Accélérateurs et cartes des personnages plus lisibles (Ω et α)</li>
+<li>Lancement plus rapide, prix relus en fond avec leur avancement près du bouton Prix</li>
+<li>Choix d'un personnage sans suivi, « Redémarrer » depuis la zone de notification, saisie plus fluide dans Missions PvE</li>
+</ul>
 
 <p><strong>1.1.2</strong> — 8 novembre 2026</p>
 <ul>
@@ -170,13 +176,6 @@ EveMirage dans une langue, les objets du jeu dans une autre : <strong>deux régl
 <p><strong>1.0.17</strong> — 6 novembre 2026</p>
 <ul>
 <li>Marché › Ordres : cinq cartes en haut du tableau résument tes ordres d'un coup d'œil — nombre d'ordres, valeur en vente, valeur en achat, ta position face à la concurrence et ce qui expire bientôt</li>
-</ul>
-
-<p><strong>1.0.16</strong> — 6 novembre 2026</p>
-<ul>
-<li>Portefeuille : un bouton « Dons / Prêts » montre ce que tu as donné ou reçu, joueur par joueur et corporation par corporation</li>
-<li>Chaque échange se qualifie (don, prêt, remboursement ; cotisation ou règlement pour une corporation), avec une note, et un tableau « Prêts / Dettes » dit ce qu'on te doit et ce que tu dois</li>
-<li>Les qualifications se retrouvent sur tous tes PC via le dossier de synchro</li>
 </ul>
 </details>
 

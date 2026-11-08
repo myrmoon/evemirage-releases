@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/version-1.1.3-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
+<img src="https://img.shields.io/badge/version-1.1.3b-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
 <img src="https://img.shields.io/badge/released-nov%208%2C%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="released">
 <img src="https://img.shields.io/github/downloads/myrmoon/evemirage-releases/total?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=downloads" alt="downloads">
 <img src="https://img.shields.io/badge/windows-10%20%C2%B7%2011-F5A524?style=for-the-badge&labelColor=1B1E23" alt="Windows 10 · 11">
@@ -124,24 +124,30 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 
 <p align="center"><img src="assets/en/version.png" width="100%" alt="VERSION"></p>
 
-<p><strong>1.1.3</strong> — November 8, 2026</p>
+<p><strong>1.1.3b</strong> — November 8, 2026</p>
 
 <p align="center"><img src="assets/en/improvements.png" width="100%" alt="IMPROVEMENTS"></p>
 
 <ul>
-<li>Standings as a market-style table: your favourite factions and corporations that moved, with their change over 24 h, 3 d, 7 d or 1 m</li>
-<li>Clearer accelerators and character cards (Ω and α)</li>
+<li>Larger, clearer Ω / α badge on character cards</li>
 </ul>
 
 <p align="center"><img src="assets/en/fixes.png" width="100%" alt="FIXES"></p>
 
 <ul>
-<li>Faster launch, prices refreshed in the background with their progress next to the Price button</li>
-<li>Pick a character without following it, "Restart" from the notification area, smoother typing in PvE Missions</li>
+<li>The left menu scrolls when a group opens in a short window: no more cut-off entries</li>
 </ul>
 
 <details>
 <summary>The last 5 previous versions</summary>
+
+<p><strong>1.1.3</strong> — November 8, 2026</p>
+<ul>
+<li>Standings as a market-style table: your favourite factions and corporations that moved, with their change over 24 h, 3 d, 7 d or 1 m</li>
+<li>Clearer accelerators and character cards (Ω and α)</li>
+<li>Faster launch, prices refreshed in the background with their progress next to the Price button</li>
+<li>Pick a character without following it, "Restart" from the notification area, smoother typing in PvE Missions</li>
+</ul>
 
 <p><strong>1.1.2</strong> — November 8, 2026</p>
 <ul>
@@ -170,13 +176,6 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 <p><strong>1.0.17</strong> — November 6, 2026</p>
 <ul>
 <li>Market › Orders: five cards above the table sum up your orders at a glance — number of orders, value for sale, value being bought, your position against the competition and what expires soon</li>
-</ul>
-
-<p><strong>1.0.16</strong> — November 6, 2026</p>
-<ul>
-<li>Wallet: a "Gifts / Loans" button shows what you gave or received, player by player and corporation by corporation</li>
-<li>Each exchange can be qualified (gift, loan, repayment; dues or settlement for a corporation) with a note, and a "Loans / Debts" table shows what you are owed and what you owe</li>
-<li>Qualifications follow you across all your PCs through the sync folder</li>
 </ul>
 </details>
 
