@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/version-1.1.1-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
-<img src="https://img.shields.io/badge/publi%C3%A9e-7%20nov.%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="publiée">
+<img src="https://img.shields.io/badge/version-1.1.2-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
+<img src="https://img.shields.io/badge/publi%C3%A9e-8%20nov.%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="publiée">
 <img src="https://img.shields.io/github/downloads/myrmoon/evemirage-releases/total?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=t%C3%A9l%C3%A9chargements" alt="téléchargements">
 <img src="https://img.shields.io/badge/windows-10%20%C2%B7%2011-F5A524?style=for-the-badge&labelColor=1B1E23" alt="Windows 10 · 11">
 </p>
@@ -124,17 +124,31 @@ EveMirage dans une langue, les objets du jeu dans une autre : <strong>deux régl
 
 <p align="center"><img src="assets/fr/version.png" width="100%" alt="VERSION"></p>
 
-<p><strong>1.1.1</strong> — 7 novembre 2026</p>
+<p><strong>1.1.2</strong> — 8 novembre 2026</p>
 
 <p align="center"><img src="assets/fr/improvements.png" width="100%" alt="AMÉLIORATIONS"></p>
 
 <ul>
-<li>Chargements plus rapides quand on a beaucoup de personnages : leurs lectures se font désormais en même temps</li>
-<li>Missions PvE : on peut écrire dans « Filtrer » dès l'arrivée sur la page</li>
+<li>Tableau de bord : choix de la période 1 j / 7 j / 30 j pour toutes les activités (gardé au relancement)</li>
+<li>Tableau de bord : nouvelle carte Standings, hausses et baisses façon bourse</li>
+<li>Les prix se relisent en fond au lancement, avec un indicateur au pied de la fenêtre</li>
+<li>Lancement et tableau de bord plus rapides</li>
+</ul>
+
+<p align="center"><img src="assets/fr/fixes.png" width="100%" alt="CORRECTIONS"></p>
+
+<ul>
+<li>Corporations favorites : les valeurs de standings s'affichent dès l'ouverture, sans attente</li>
 </ul>
 
 <details>
 <summary>Les 5 versions précédentes</summary>
+
+<p><strong>1.1.1</strong> — 7 novembre 2026</p>
+<ul>
+<li>Chargements plus rapides quand on a beaucoup de personnages : leurs lectures se font désormais en même temps</li>
+<li>Missions PvE : on peut écrire dans « Filtrer » dès l'arrivée sur la page</li>
+</ul>
 
 <p><strong>1.1.0</strong> — 7 novembre 2026</p>
 <ul>
@@ -162,15 +176,6 @@ EveMirage dans une langue, les objets du jeu dans une autre : <strong>deux régl
 <li>Le nombre de joueurs sur Tranquility, en bas de la fenêtre, se met à jour toutes les minutes</li>
 <li>Le Gestionnaire des tâches affiche simplement « EveMirage »</li>
 <li>La fenêtre de mise à jour : le bouton « Installer maintenant » répond tout de suite, sans attendre la fin des lectures du lancement</li>
-</ul>
-
-<p><strong>1.0.14</strong> — 6 novembre 2026</p>
-<ul>
-<li>Tableau de bord : les accélérateurs tiennent dans une carte (« 5 / 6 »), et chaque personnage a sa ligne avec l'icône du bonus et la barre du temps restant</li>
-<li>Le downtime s'affiche sous la forme « DT 12:00 (EVE Time 11:00) », à l'heure de votre PC</li>
-<li>D-Scan refait</li>
-<li>Killboard de la corporation et cadre Corporation</li>
-<li>Améliorations visuelles</li>
 </ul>
 </details>
 

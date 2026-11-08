@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/version-1.1.1-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
-<img src="https://img.shields.io/badge/released-nov%207%2C%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="released">
+<img src="https://img.shields.io/badge/version-1.1.2-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
+<img src="https://img.shields.io/badge/released-nov%208%2C%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="released">
 <img src="https://img.shields.io/github/downloads/myrmoon/evemirage-releases/total?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=downloads" alt="downloads">
 <img src="https://img.shields.io/badge/windows-10%20%C2%B7%2011-F5A524?style=for-the-badge&labelColor=1B1E23" alt="Windows 10 · 11">
 </p>
@@ -124,17 +124,31 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 
 <p align="center"><img src="assets/en/version.png" width="100%" alt="VERSION"></p>
 
-<p><strong>1.1.1</strong> — November 7, 2026</p>
+<p><strong>1.1.2</strong> — November 8, 2026</p>
 
 <p align="center"><img src="assets/en/improvements.png" width="100%" alt="IMPROVEMENTS"></p>
 
 <ul>
-<li>Faster loading with many characters: their data is now read at the same time</li>
-<li>PvE Missions: you can type in "Filter" as soon as you open the page</li>
+<li>Dashboard: 1 d / 7 d / 30 d period selector for all activities (remembered between launches)</li>
+<li>Dashboard: new Standings card, rises and falls like a stock ticker</li>
+<li>Prices refresh in the background at launch, with an indicator at the bottom of the window</li>
+<li>Faster launch and dashboard</li>
+</ul>
+
+<p align="center"><img src="assets/en/fixes.png" width="100%" alt="FIXES"></p>
+
+<ul>
+<li>Favorite corporations: standings values show as soon as the page opens, with no wait</li>
 </ul>
 
 <details>
 <summary>The last 5 previous versions</summary>
+
+<p><strong>1.1.1</strong> — November 7, 2026</p>
+<ul>
+<li>Faster loading with many characters: their data is now read at the same time</li>
+<li>PvE Missions: you can type in "Filter" as soon as you open the page</li>
+</ul>
 
 <p><strong>1.1.0</strong> — November 7, 2026</p>
 <ul>
@@ -162,15 +176,6 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 <li>The player count on Tranquility, at the bottom of the window, now refreshes every minute</li>
 <li>Task Manager now simply shows "EveMirage"</li>
 <li>Update window: the "Install now" button responds immediately instead of waiting for the startup reads to finish</li>
-</ul>
-
-<p><strong>1.0.14</strong> — November 6, 2026</p>
-<ul>
-<li>Dashboard: boosters now fit in one card ("5 / 6"), and each character has its own line with the bonus icon and a bar for the time left</li>
-<li>Downtime now reads "DT 12:00 (EVE Time 11:00)", in your PC's time</li>
-<li>D-Scan rebuilt</li>
-<li>Corporation killboard and Corporation frame</li>
-<li>Visual improvements</li>
 </ul>
 </details>
 
