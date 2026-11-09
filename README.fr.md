@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/version-1.1.3b-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
-<img src="https://img.shields.io/badge/publi%C3%A9e-8%20nov.%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="publiée">
+<img src="https://img.shields.io/badge/version-1.1.4-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
+<img src="https://img.shields.io/badge/publi%C3%A9e-9%20nov.%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="publiée">
 <img src="https://img.shields.io/github/downloads/myrmoon/evemirage-releases/total?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=t%C3%A9l%C3%A9chargements" alt="téléchargements">
 <img src="https://img.shields.io/badge/windows-10%20%C2%B7%2011-F5A524?style=for-the-badge&labelColor=1B1E23" alt="Windows 10 · 11">
 </p>
@@ -124,22 +124,32 @@ EveMirage dans une langue, les objets du jeu dans une autre : <strong>deux régl
 
 <p align="center"><img src="assets/fr/version.png" width="100%" alt="VERSION"></p>
 
-<p><strong>1.1.3b</strong> — 8 novembre 2026</p>
+<p><strong>1.1.4</strong> — 9 novembre 2026</p>
 
 <p align="center"><img src="assets/fr/improvements.png" width="100%" alt="AMÉLIORATIONS"></p>
 
 <ul>
-<li>Badge Ω / α des personnages plus grand et plus lisible</li>
+<li>**Synchro des PC** : le portefeuille, les réputations et le minage de tous tes PC se rejoignent par un dossier Google Drive, OneDrive ou Dropbox, réglé en un clic dans Réglages ; tes jetons ne voyagent jamais.</li>
+<li>**Tableau de bord** : la période des activités propose aussi 1 an, et la carte Standings rassemble chaque standing de tous tes personnages avec le net total, hausses en vert et baisses en rouge.</li>
+<li>**Améliorations visuelles** sur le tableau de bord.</li>
 </ul>
 
 <p align="center"><img src="assets/fr/fixes.png" width="100%" alt="CORRECTIONS"></p>
 
 <ul>
-<li>Le menu de gauche défile quand un groupe s'ouvre dans une fenêtre basse : plus de rubriques coupées</li>
+<li>**Sécurité** : la mise à jour est vérifiée plus strictement avant de se lancer, et la synchro, les webhooks Discord, le forum et le journal d'erreurs sont durcis.</li>
+<li>**Missions** : la fiche « Activité illégale » annonce la vraie perte de standing, et la liste compacte se lit en entier.</li>
+<li>**Performances** : les écrans s'ouvrent plus vite (Industrie › Blueprints notamment) et changer de thème est bien plus rapide.</li>
 </ul>
 
 <details>
 <summary>Les 5 versions précédentes</summary>
+
+<p><strong>1.1.3b</strong> — 8 novembre 2026</p>
+<ul>
+<li>Badge Ω / α des personnages plus grand et plus lisible</li>
+<li>Le menu de gauche défile quand un groupe s'ouvre dans une fenêtre basse : plus de rubriques coupées</li>
+</ul>
 
 <p><strong>1.1.3</strong> — 8 novembre 2026</p>
 <ul>
@@ -171,11 +181,6 @@ EveMirage dans une langue, les objets du jeu dans une autre : <strong>deux régl
 <li>Corporation : signaler une absence (vacances, maladie…) sur le calendrier des activités</li>
 <li>Améliorations visuelles</li>
 <li>La fenêtre de mise à jour passe devant toute lecture : « Installer maintenant » répond</li>
-</ul>
-
-<p><strong>1.0.17</strong> — 6 novembre 2026</p>
-<ul>
-<li>Marché › Ordres : cinq cartes en haut du tableau résument tes ordres d'un coup d'œil — nombre d'ordres, valeur en vente, valeur en achat, ta position face à la concurrence et ce qui expire bientôt</li>
 </ul>
 </details>
 

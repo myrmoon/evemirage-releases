@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/version-1.1.3b-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
-<img src="https://img.shields.io/badge/released-nov%208%2C%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="released">
+<img src="https://img.shields.io/badge/version-1.1.4-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
+<img src="https://img.shields.io/badge/released-nov%209%2C%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="released">
 <img src="https://img.shields.io/github/downloads/myrmoon/evemirage-releases/total?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=downloads" alt="downloads">
 <img src="https://img.shields.io/badge/windows-10%20%C2%B7%2011-F5A524?style=for-the-badge&labelColor=1B1E23" alt="Windows 10 · 11">
 </p>
@@ -124,22 +124,32 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 
 <p align="center"><img src="assets/en/version.png" width="100%" alt="VERSION"></p>
 
-<p><strong>1.1.3b</strong> — November 8, 2026</p>
+<p><strong>1.1.4</strong> — November 9, 2026</p>
 
 <p align="center"><img src="assets/en/improvements.png" width="100%" alt="IMPROVEMENTS"></p>
 
 <ul>
-<li>Larger, clearer Ω / α badge on character cards</li>
+<li>**PC sync**: your wallet, reputations and mining from all your PCs come together through a Google Drive, OneDrive or Dropbox folder, set up in one click in Settings; your tokens never travel.</li>
+<li>**Dashboard**: the activity period also offers 1 year, and the Standings card gathers every standing from all your characters with the net total, rises in green and drops in red.</li>
+<li>**Visual improvements** on the dashboard.</li>
 </ul>
 
 <p align="center"><img src="assets/en/fixes.png" width="100%" alt="FIXES"></p>
 
 <ul>
-<li>The left menu scrolls when a group opens in a short window: no more cut-off entries</li>
+<li>**Security**: the update is checked more strictly before it runs, and sync, Discord webhooks, the forum and the error log are hardened.</li>
+<li>**Missions**: the "Illegal activity" sheet states the real standing loss, and the compact list now reads in full.</li>
+<li>**Performance**: screens open faster (Industry › Blueprints in particular) and switching themes is much quicker.</li>
 </ul>
 
 <details>
 <summary>The last 5 previous versions</summary>
+
+<p><strong>1.1.3b</strong> — November 8, 2026</p>
+<ul>
+<li>Larger, clearer Ω / α badge on character cards</li>
+<li>The left menu scrolls when a group opens in a short window: no more cut-off entries</li>
+</ul>
 
 <p><strong>1.1.3</strong> — November 8, 2026</p>
 <ul>
@@ -171,11 +181,6 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 <li>Corporation: report an absence (holiday, illness…) on the activity calendar</li>
 <li>Visual improvements</li>
 <li>The update window comes in front of any loading: "Install now" responds</li>
-</ul>
-
-<p><strong>1.0.17</strong> — November 6, 2026</p>
-<ul>
-<li>Market › Orders: five cards above the table sum up your orders at a glance — number of orders, value for sale, value being bought, your position against the competition and what expires soon</li>
 </ul>
 </details>
 
