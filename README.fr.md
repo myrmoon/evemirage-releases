@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/version-1.1.5-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
+<img src="https://img.shields.io/badge/version-1.1.6-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
 <img src="https://img.shields.io/badge/publi%C3%A9e-10%20nov.%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="publiée">
 <img src="https://img.shields.io/github/downloads/myrmoon/evemirage-releases/total?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=t%C3%A9l%C3%A9chargements" alt="téléchargements">
 <img src="https://img.shields.io/badge/windows-10%20%C2%B7%2011-F5A524?style=for-the-badge&labelColor=1B1E23" alt="Windows 10 · 11">
@@ -124,25 +124,27 @@ EveMirage dans une langue, les objets du jeu dans une autre : <strong>deux régl
 
 <p align="center"><img src="assets/fr/version.png" width="100%" alt="VERSION"></p>
 
-<p><strong>1.1.5</strong> — 10 novembre 2026</p>
+<p><strong>1.1.6</strong> — 10 novembre 2026</p>
 
 <p align="center"><img src="assets/fr/improvements.png" width="100%" alt="AMÉLIORATIONS"></p>
 
+<ul>
+<li>Journal de la corporation : chaque arrivée et chaque départ de la corporation y est noté, que le membre utilise EveMirage ou non</li>
+<li>Un nouveau membre apparaît à sa vraie date d'entrée dans la corporation</li>
+<li>Nouveau droit ESI en lecture seule (liste des membres) : une fenêtre propose de reconnecter vos personnages au premier lancement</li>
+</ul>
+
+<details>
+<summary>Les 5 versions précédentes</summary>
+
+<p><strong>1.1.5</strong> — 10 novembre 2026</p>
 <ul>
 <li>Journal de la corporation : une carte sous le killboard de Corporation › Général (nouveaux membres, départs, co-dirigeants, badges décernés) et un historique consultable</li>
 <li>13 distinctions honorifiques, décernées par le chef de la corporation ou un co-dirigeant</li>
 <li>30 badges d'ancienneté dans la corporation</li>
 <li>Page d'un membre refaite : portrait, personnages, badges</li>
-</ul>
-
-<p align="center"><img src="assets/fr/fixes.png" width="100%" alt="CORRECTIONS"></p>
-
-<ul>
 <li>Déconnexion d'un personnage : la copie de sécurité des jetons est effacée au lancement suivant</li>
 </ul>
-
-<details>
-<summary>Les 5 versions précédentes</summary>
 
 <p><strong>1.1.4</strong> — 9 novembre 2026</p>
 <ul>
@@ -175,12 +177,6 @@ EveMirage dans une langue, les objets du jeu dans une autre : <strong>deux régl
 <li>Les prix se relisent en fond au lancement, avec un indicateur au pied de la fenêtre</li>
 <li>Lancement et tableau de bord plus rapides</li>
 <li>Corporations favorites : les valeurs de standings s'affichent dès l'ouverture, sans attente</li>
-</ul>
-
-<p><strong>1.1.1</strong> — 7 novembre 2026</p>
-<ul>
-<li>Chargements plus rapides quand on a beaucoup de personnages : leurs lectures se font désormais en même temps</li>
-<li>Missions PvE : on peut écrire dans « Filtrer » dès l'arrivée sur la page</li>
 </ul>
 </details>
 

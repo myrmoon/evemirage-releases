@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/version-1.1.5-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
+<img src="https://img.shields.io/badge/version-1.1.6-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
 <img src="https://img.shields.io/badge/released-nov%2010%2C%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="released">
 <img src="https://img.shields.io/github/downloads/myrmoon/evemirage-releases/total?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=downloads" alt="downloads">
 <img src="https://img.shields.io/badge/windows-10%20%C2%B7%2011-F5A524?style=for-the-badge&labelColor=1B1E23" alt="Windows 10 · 11">
@@ -124,25 +124,27 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 
 <p align="center"><img src="assets/en/version.png" width="100%" alt="VERSION"></p>
 
-<p><strong>1.1.5</strong> — November 10, 2026</p>
+<p><strong>1.1.6</strong> — November 10, 2026</p>
 
 <p align="center"><img src="assets/en/improvements.png" width="100%" alt="IMPROVEMENTS"></p>
 
+<ul>
+<li>Corporation journal: every arrival and departure in the corporation is recorded, whether the member uses EveMirage or not</li>
+<li>A new member appears on their real corporation join date</li>
+<li>New read-only ESI permission (member list): a window offers to reconnect your characters at first launch</li>
+</ul>
+
+<details>
+<summary>The last 5 previous versions</summary>
+
+<p><strong>1.1.5</strong> — November 10, 2026</p>
 <ul>
 <li>Corporation journal: a card under the killboard on Corporation › General (new members, departures, co-leaders, awarded badges) and a searchable history</li>
 <li>13 honorary distinctions, awarded by the corporation leader or a co-leader</li>
 <li>30 corporation tenure badges</li>
 <li>Member page redesigned: portrait, characters, badges</li>
-</ul>
-
-<p align="center"><img src="assets/en/fixes.png" width="100%" alt="FIXES"></p>
-
-<ul>
 <li>Character logout: the security copy of the tokens is deleted at the next launch</li>
 </ul>
-
-<details>
-<summary>The last 5 previous versions</summary>
 
 <p><strong>1.1.4</strong> — November 9, 2026</p>
 <ul>
@@ -175,12 +177,6 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 <li>Prices refresh in the background at launch, with an indicator at the bottom of the window</li>
 <li>Faster launch and dashboard</li>
 <li>Favorite corporations: standings values show as soon as the page opens, with no wait</li>
-</ul>
-
-<p><strong>1.1.1</strong> — November 7, 2026</p>
-<ul>
-<li>Faster loading with many characters: their data is now read at the same time</li>
-<li>PvE Missions: you can type in "Filter" as soon as you open the page</li>
 </ul>
 </details>
 
