@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/version-1.1.4-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
-<img src="https://img.shields.io/badge/released-nov%209%2C%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="released">
+<img src="https://img.shields.io/badge/version-1.1.5-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
+<img src="https://img.shields.io/badge/released-nov%2010%2C%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="released">
 <img src="https://img.shields.io/github/downloads/myrmoon/evemirage-releases/total?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=downloads" alt="downloads">
 <img src="https://img.shields.io/badge/windows-10%20%C2%B7%2011-F5A524?style=for-the-badge&labelColor=1B1E23" alt="Windows 10 · 11">
 </p>
@@ -124,26 +124,35 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 
 <p align="center"><img src="assets/en/version.png" width="100%" alt="VERSION"></p>
 
-<p><strong>1.1.4</strong> — November 9, 2026</p>
+<p><strong>1.1.5</strong> — November 10, 2026</p>
 
 <p align="center"><img src="assets/en/improvements.png" width="100%" alt="IMPROVEMENTS"></p>
 
 <ul>
-<li>**PC sync**: your wallet, reputations and mining from all your PCs come together through a Google Drive, OneDrive or Dropbox folder, set up in one click in Settings; your tokens never travel.</li>
-<li>**Dashboard**: the activity period also offers 1 year, and the Standings card gathers every standing from all your characters with the net total, rises in green and drops in red.</li>
-<li>**Visual improvements** on the dashboard.</li>
+<li>Corporation journal: a card under the killboard on Corporation › General (new members, departures, co-leaders, awarded badges) and a searchable history</li>
+<li>13 honorary distinctions, awarded by the corporation leader or a co-leader</li>
+<li>30 corporation tenure badges</li>
+<li>Member page redesigned: portrait, characters, badges</li>
 </ul>
 
 <p align="center"><img src="assets/en/fixes.png" width="100%" alt="FIXES"></p>
 
 <ul>
-<li>**Security**: the update is checked more strictly before it runs, and sync, Discord webhooks, the forum and the error log are hardened.</li>
-<li>**Missions**: the "Illegal activity" sheet states the real standing loss, and the compact list now reads in full.</li>
-<li>**Performance**: screens open faster (Industry › Blueprints in particular) and switching themes is much quicker.</li>
+<li>Character logout: the security copy of the tokens is deleted at the next launch</li>
 </ul>
 
 <details>
 <summary>The last 5 previous versions</summary>
+
+<p><strong>1.1.4</strong> — November 9, 2026</p>
+<ul>
+<li>**PC sync**: your wallet, reputations and mining from all your PCs come together through a Google Drive, OneDrive or Dropbox folder, set up in one click in Settings; your tokens never travel.</li>
+<li>**Dashboard**: the activity period also offers 1 year, and the Standings card gathers every standing from all your characters with the net total, rises in green and drops in red.</li>
+<li>**Visual improvements** on the dashboard.</li>
+<li>**Security**: the update is checked more strictly before it runs, and sync, Discord webhooks, the forum and the error log are hardened.</li>
+<li>**Missions**: the "Illegal activity" sheet states the real standing loss, and the compact list now reads in full.</li>
+<li>**Performance**: screens open faster (Industry › Blueprints in particular) and switching themes is much quicker.</li>
+</ul>
 
 <p><strong>1.1.3b</strong> — November 8, 2026</p>
 <ul>
@@ -172,15 +181,6 @@ Read EveMirage in one language and the game's items in another: <strong>two inde
 <ul>
 <li>Faster loading with many characters: their data is now read at the same time</li>
 <li>PvE Missions: you can type in "Filter" as soon as you open the page</li>
-</ul>
-
-<p><strong>1.1.0</strong> — November 7, 2026</p>
-<ul>
-<li>Planning: training times (plans, remaps, skill browser) account for the active cerebral accelerator, and for Biology at the moment it was started</li>
-<li>Characters: "Only…" keeps a single character, or takes them all back, in one gesture in character lists</li>
-<li>Corporation: report an absence (holiday, illness…) on the activity calendar</li>
-<li>Visual improvements</li>
-<li>The update window comes in front of any loading: "Install now" responds</li>
 </ul>
 </details>
 

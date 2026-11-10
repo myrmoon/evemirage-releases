@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/version-1.1.4-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
-<img src="https://img.shields.io/badge/publi%C3%A9e-9%20nov.%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="publiée">
+<img src="https://img.shields.io/badge/version-1.1.5-F5A524?style=for-the-badge&labelColor=1B1E23" alt="version">
+<img src="https://img.shields.io/badge/publi%C3%A9e-10%20nov.%202026-F5A524?style=for-the-badge&labelColor=1B1E23" alt="publiée">
 <img src="https://img.shields.io/github/downloads/myrmoon/evemirage-releases/total?style=for-the-badge&labelColor=1B1E23&color=F5A524&label=t%C3%A9l%C3%A9chargements" alt="téléchargements">
 <img src="https://img.shields.io/badge/windows-10%20%C2%B7%2011-F5A524?style=for-the-badge&labelColor=1B1E23" alt="Windows 10 · 11">
 </p>
@@ -124,26 +124,35 @@ EveMirage dans une langue, les objets du jeu dans une autre : <strong>deux régl
 
 <p align="center"><img src="assets/fr/version.png" width="100%" alt="VERSION"></p>
 
-<p><strong>1.1.4</strong> — 9 novembre 2026</p>
+<p><strong>1.1.5</strong> — 10 novembre 2026</p>
 
 <p align="center"><img src="assets/fr/improvements.png" width="100%" alt="AMÉLIORATIONS"></p>
 
 <ul>
-<li>**Synchro des PC** : le portefeuille, les réputations et le minage de tous tes PC se rejoignent par un dossier Google Drive, OneDrive ou Dropbox, réglé en un clic dans Réglages ; tes jetons ne voyagent jamais.</li>
-<li>**Tableau de bord** : la période des activités propose aussi 1 an, et la carte Standings rassemble chaque standing de tous tes personnages avec le net total, hausses en vert et baisses en rouge.</li>
-<li>**Améliorations visuelles** sur le tableau de bord.</li>
+<li>Journal de la corporation : une carte sous le killboard de Corporation › Général (nouveaux membres, départs, co-dirigeants, badges décernés) et un historique consultable</li>
+<li>13 distinctions honorifiques, décernées par le chef de la corporation ou un co-dirigeant</li>
+<li>30 badges d'ancienneté dans la corporation</li>
+<li>Page d'un membre refaite : portrait, personnages, badges</li>
 </ul>
 
 <p align="center"><img src="assets/fr/fixes.png" width="100%" alt="CORRECTIONS"></p>
 
 <ul>
-<li>**Sécurité** : la mise à jour est vérifiée plus strictement avant de se lancer, et la synchro, les webhooks Discord, le forum et le journal d'erreurs sont durcis.</li>
-<li>**Missions** : la fiche « Activité illégale » annonce la vraie perte de standing, et la liste compacte se lit en entier.</li>
-<li>**Performances** : les écrans s'ouvrent plus vite (Industrie › Blueprints notamment) et changer de thème est bien plus rapide.</li>
+<li>Déconnexion d'un personnage : la copie de sécurité des jetons est effacée au lancement suivant</li>
 </ul>
 
 <details>
 <summary>Les 5 versions précédentes</summary>
+
+<p><strong>1.1.4</strong> — 9 novembre 2026</p>
+<ul>
+<li>**Synchro des PC** : le portefeuille, les réputations et le minage de tous tes PC se rejoignent par un dossier Google Drive, OneDrive ou Dropbox, réglé en un clic dans Réglages ; tes jetons ne voyagent jamais.</li>
+<li>**Tableau de bord** : la période des activités propose aussi 1 an, et la carte Standings rassemble chaque standing de tous tes personnages avec le net total, hausses en vert et baisses en rouge.</li>
+<li>**Améliorations visuelles** sur le tableau de bord.</li>
+<li>**Sécurité** : la mise à jour est vérifiée plus strictement avant de se lancer, et la synchro, les webhooks Discord, le forum et le journal d'erreurs sont durcis.</li>
+<li>**Missions** : la fiche « Activité illégale » annonce la vraie perte de standing, et la liste compacte se lit en entier.</li>
+<li>**Performances** : les écrans s'ouvrent plus vite (Industrie › Blueprints notamment) et changer de thème est bien plus rapide.</li>
+</ul>
 
 <p><strong>1.1.3b</strong> — 8 novembre 2026</p>
 <ul>
@@ -172,15 +181,6 @@ EveMirage dans une langue, les objets du jeu dans une autre : <strong>deux régl
 <ul>
 <li>Chargements plus rapides quand on a beaucoup de personnages : leurs lectures se font désormais en même temps</li>
 <li>Missions PvE : on peut écrire dans « Filtrer » dès l'arrivée sur la page</li>
-</ul>
-
-<p><strong>1.1.0</strong> — 7 novembre 2026</p>
-<ul>
-<li>Planification : les durées de formation (plans, remaps, navigateur de compétences) tiennent compte de l'accélérateur cérébral actif, et de Biology au moment où il a été lancé</li>
-<li>Personnages : « Seulement… » garde un seul personnage, ou les reprend tous, d'un geste dans les listes à personnages</li>
-<li>Corporation : signaler une absence (vacances, maladie…) sur le calendrier des activités</li>
-<li>Améliorations visuelles</li>
-<li>La fenêtre de mise à jour passe devant toute lecture : « Installer maintenant » répond</li>
 </ul>
 </details>
 
